@@ -39,4 +39,5 @@ Error Handling: Custom middleware catches and logs server-side errors, ensuring 
 
 👨‍💻 Author
 
-Aditya Bhatnagar Focusing on building scalable full-stack applications and optimized data workflows.
+Aditya Bhatnagar 
+Focusing on building scalable full-stack applications and optimized data workflows.
