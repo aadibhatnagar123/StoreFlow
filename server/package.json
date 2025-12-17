@@ -1,0 +1,31 @@
+{
+  "name": "StoreFlow
+  ",
+  "version": "1.0.0",
+  "description": "This project is about a reliable inventory keeping web application which is easy to use and free of cost.",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+  
+  },
+  "keywords": [
+    "inventory"
+  ],
+  "author": "Aditya Bhatnagar",
+
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.3.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "jsonwebtoken": "^9.0.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
